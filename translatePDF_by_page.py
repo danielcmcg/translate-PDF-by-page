@@ -1,4 +1,4 @@
-﻿# GitHub project: https://github.com/danielcmcg/Unity-UI-Nested-Drag-and-Drop
+﻿# GitHub project: https://github.com/danielcmcg
 
 # https://github.com/ssut/py-googletrans
 from googletrans import Translator
